@@ -29,22 +29,22 @@ Lists of words
 ### Installation
 **directly using your Node**
 ```bat
-- cd to dist folder
-- excecute **node main.js**
-- node version used v12.18.2
+> cd to dist folder
+> excecute **node main.js**
+> node version used v12.18.2
 ```
 
 **or you can install nest CLI and run the app in dev mode by using the following commands**
 ```bat
-- npm i -g @nestjs/cli
-- cd <project-folder>
-- npm install
-- npm start
+> npm i -g @nestjs/cli
+> cd <project-folder>
+> npm install
+> npm start
 ```
 
 **and you can run unit tests by using the following command**
 ```bat
-- npm run test
+> npm run test
 ```
 
 ### Technology Used
